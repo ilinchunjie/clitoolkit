@@ -1,5 +1,7 @@
 # clitoolkit
 
+本仓库在 Spectre.Console 交互式命令行的基础上做的扩展 https://spectreconsole.net/
+
 # 安装 dotnet 环境
 
 需要使用梯子，再执行命令，否则可能安装失败
